@@ -2,3 +2,8 @@
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	background: #f0f0f0;
 }
+
+h1 {
+	font-weight: 1000;
+	text-align: center;
+}
